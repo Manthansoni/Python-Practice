@@ -1,20 +1,24 @@
+'''
+    oop_game
+'''
+
 # Format of code
-class NameOfClass():
-    class_attribute = 'value'
-    def __init__(self,param1,param2):
-        self.param1 = param1
-        self.param2 = param2
+# class NameOfClass():
+#     class_attribute = 'value'
+#     def __init__(self,param1,param2):
+#         self.param1 = param1
+#         self.param2 = param2
 
-    def method(self):
-        #code
-    
-    @ 
-    def cls_method(cls,param1, param2):
-        #code
+#     def method(self):
+#         #code
 
-    @staticmethod
-    def stc_method(param1,param2):
-        #code
+#     @classmethod
+#     def cls_method(cls,param1, param2):
+#         #code
+
+#     @staticmethod
+#     def stc_method(param1,param2):
+#         #code
 
 # actual code
 class PlayerCharacter:
